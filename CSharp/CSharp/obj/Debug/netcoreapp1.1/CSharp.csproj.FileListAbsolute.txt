@@ -1,0 +1,10 @@
+C:\code\olo\mongodbdemo\CSharp\CSharp\bin\Debug\netcoreapp1.1\CSharp.deps.json
+C:\code\olo\mongodbdemo\CSharp\CSharp\bin\Debug\netcoreapp1.1\CSharp.runtimeconfig.json
+C:\code\olo\mongodbdemo\CSharp\CSharp\bin\Debug\netcoreapp1.1\CSharp.runtimeconfig.dev.json
+C:\code\olo\mongodbdemo\CSharp\CSharp\bin\Debug\netcoreapp1.1\CSharp.dll
+C:\code\olo\mongodbdemo\CSharp\CSharp\bin\Debug\netcoreapp1.1\CSharp.pdb
+C:\code\olo\mongodbdemo\CSharp\CSharp\obj\Debug\netcoreapp1.1\CSharp.csprojResolveAssemblyReference.cache
+C:\code\olo\mongodbdemo\CSharp\CSharp\obj\Debug\netcoreapp1.1\CSharp.csproj.CoreCompileInputs.cache
+C:\code\olo\mongodbdemo\CSharp\CSharp\obj\Debug\netcoreapp1.1\CSharp.AssemblyInfo.cs
+C:\code\olo\mongodbdemo\CSharp\CSharp\obj\Debug\netcoreapp1.1\CSharp.dll
+C:\code\olo\mongodbdemo\CSharp\CSharp\obj\Debug\netcoreapp1.1\CSharp.pdb
